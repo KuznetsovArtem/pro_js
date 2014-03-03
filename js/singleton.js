@@ -37,5 +37,4 @@ var singleton = (function() {
 var singleA = singleton.getInstance();
 var singleB = singleton.getInstance();
 
-
-// TODO: one more example
+// TODO: one more example;
